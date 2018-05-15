@@ -1,2 +1,2 @@
-#MyReactApps
-This is React/Redux Personal projects repo
+#MyReact/ReduxApps
+This is my React/Redux Personal practice/projects Repo
