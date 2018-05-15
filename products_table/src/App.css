@@ -1,0 +1,10 @@
+input[name=onlyStock]{
+  margin: auto -.5em auto .3em;
+}
+.header-category{
+  margin-bottom: 0px;
+}
+
+.notStocked{
+  color:red;
+}

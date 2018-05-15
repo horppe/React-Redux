@@ -1,0 +1,48 @@
+body{
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+  background: #333;
+}
+.Todo{
+  width: 50%;
+  margin: 50px auto auto auto;
+}
+
+
+.addToDo{
+  text-align: center;
+}
+
+.item{
+  border-radius: 2em;
+  padding: 5px;
+  background: #777;
+}
+.item:hover{
+  background: #333;
+  color:white;
+  cursor: pointer;
+}
+
+.item span{
+  margin-left: .5em;
+}
+
+#title{
+  font-size: 2em;
+  margin: 0;
+  color: #ccc;
+}
+
+#add-btn, #delete-btn{
+  border: 1px solid black;
+  border-radius: 1em;
+  margin:2px;
+  width: 50px;
+  background: #bbb;
+}
+
+input#add-btn:hover, button#delete-btn:hover{
+  background: red;
+}

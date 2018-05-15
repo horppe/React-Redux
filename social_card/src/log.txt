@@ -1,0 +1,2 @@
+// Whenener there is a little space between an item and something that shouldn't be there, then try removing all the margin or padding between the elements
+ // Change an img width when you write a media query
